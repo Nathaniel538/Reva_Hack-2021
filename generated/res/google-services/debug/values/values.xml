@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">829289878280-dtr8s0jlgfvkhqsr80bspvs92sndq3sq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">829289878280</string>
+    <string name="google_api_key" translatable="false">AIzaSyD6PLk1xCMC2eJcfmBWYRl3UXZVI05Qz34</string>
+    <string name="google_app_id" translatable="false">1:829289878280:android:d7045ed7a80f2f8d7352bd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD6PLk1xCMC2eJcfmBWYRl3UXZVI05Qz34</string>
+    <string name="google_storage_bucket" translatable="false">warehouse-management-system-69.appspot.com</string>
+    <string name="project_id" translatable="false">warehouse-management-system-69</string>
+</resources>
