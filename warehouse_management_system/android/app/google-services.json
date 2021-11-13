@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829289878280",
+    "project_id": "warehouse-management-system-69",
+    "storage_bucket": "warehouse-management-system-69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829289878280:android:d7045ed7a80f2f8d7352bd",
+        "android_client_info": {
+          "package_name": "com.CodeHungry.warehouse_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829289878280-dtr8s0jlgfvkhqsr80bspvs92sndq3sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6PLk1xCMC2eJcfmBWYRl3UXZVI05Qz34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829289878280-dtr8s0jlgfvkhqsr80bspvs92sndq3sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
